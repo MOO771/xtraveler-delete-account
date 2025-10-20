@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Delete Account - XTraveler</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2b2b2b;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Delete Your Account - XTraveler</h1>
+  <p>
+    If you wish to delete your <strong>XTraveler</strong> account and all data associated with it,
+    you can request deletion at any time by following the instructions below.
+  </p>
+
+  <h2>How to Request Account Deletion</h2>
+  <ol>
+    <li>Open the <strong>XTraveler</strong> app on your device.</li>
+    <li>Go to <strong>Profile → Settings → Delete Account</strong>.</li>
+    <li>Confirm the deletion request. Once confirmed, your account and all associated data will be permanently removed.</li>
+  </ol>
+
+  <p>
+    Alternatively, you can send us an email at
+    <a href="mailto:xtravelerr@gmail.com">xtravelerr@gmail.com</a>
+    using the same email or phone number linked to your account.  
+    We will process your request within 7 business days.
+  </p>
+
+  <h2>Data Deletion Details</h2>
+  <ul>
+    <li>
+      All personal data (name, profile photo, phone number, and trip details) will be permanently deleted from our servers.
+    </li>
+    <li>
+      Some anonymous usage data and system logs may be retained for up to 30 days for security and fraud-prevention purposes, after which they are automatically erased.
+    </li>
+    <li>
+      Once your account is deleted, it cannot be restored.
+    </li>
+  </ul>
+
+  <p>
+    This page is maintained by the <strong>XTraveler</strong> development team to comply with Google Play’s
+    account deletion requirements.
+  </p>
+
+  <p>
+    For any questions or support regarding your data, please contact us at
+    <a href="mailto:xtravelerr@gmail.com">xtravelerr@gmail.com</a>.
+  </p>
+</body>
+</html>
