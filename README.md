@@ -1,1 +1,0 @@
-# xtraveler-delete-account
